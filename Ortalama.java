@@ -1,3 +1,7 @@
+/**
+*@author fatih-git
+*/
+
 import java.util.Scanner;
 
 public class Ortalama {
